@@ -1,30 +1,30 @@
 - [前言](README.md)
 
-- Getting started
+- IH_BasicPlatform开发框架
 
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
+  - [Quick start](perfection.md)
+  - [Writing more pages](perfection.md)
+  - [Custom navbar](perfection.md)
+  - [Cover page](perfection.md)
 
-- Customization
+- SSO单点登录接入
 
-  - [Configuration](configuration.md)
-  - [Themes](themes.md)
-  - [List of Plugins](plugins.md)
-  - [Write a Plugin](write-a-plugin.md)
-  - [Markdown configuration](markdown.md)
-  - [Language highlighting](language-highlight.md)
+  - [Configuration](perfection.md)
+  - [Themes](perfection.md)
+  - [List of Plugins](perfection.md)
+  - [Write a Plugin](perfection.md)
+  - [Markdown configuration](perfection.md)
+  - [Language highlighting](perfection.md)
 
 - Guide
 
-  - [Deploy](deploy.md)
-  - [Helpers](helpers.md)
-  - [Vue compatibility](vue.md)
-  - [CDN](cdn.md)
-  - [Offline Mode(PWA)](pwa.md)
-  - [Server-Side Rendering(SSR)](ssr.md)
-  - [Embed Files](embed-files.md)
+  - [Deploy](perfection.md)
+  - [Helpers](perfection.md)
+  - [Vue compatibility](perfection.md)
+  - [CDN](perfection.md)
+  - [Offline Mode(PWA)](perfection.md)
+  - [Server-Side Rendering(SSR)](perfection.md)
+  - [Embed Files](perfection.md)
 
-- [Awesome docsify](awesome.md)
-- [Changelog](changelog.md)
+- [Awesome docsify](perfection.md)
+- [Changelog](perfection.md)
