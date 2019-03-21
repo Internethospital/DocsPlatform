@@ -1,29 +1,28 @@
 # 使用Docsify协助编写技术文档
 
-推荐安装 `docsify-cli` 工具，可以方便创建及本地预览文档网站。
+互联网医院团队的所有技术文档都将采用Docsify进行编写，比如IH_BasicPlatform开发框架、SSO单点登录接入文档等，那就意味着所有人员都必须掌握Docsify这个工具编写文档，下面就是入门教程教大家怎么编写技术文档。
+
+Docsify官方资料： https://docsify.js.org/#/zh-cn/ 。
+互联网医院技术文档： https://docs.efwplus.cn
+
+## 准备工作
+
+- 注册github账号，然后将账号发给曾浩加入文档编辑权限。github： https://github.com/
+- 安装Git工具，用来克隆GitHub上的文档库。
+- 安装Atom工具，用来编辑MD文档的工具。
+
+，并将 https://github.com/Internethospital/DocsPlatform.git 克隆到本地。
+
+## 克隆文档库
+
+执行下面命令
 
 ```bash
-npm i docsify-cli -g
+git clone https://github.com/Internethospital/DocsPlatform.git
 ```
 
-## 初始化项目
+## Atom编写文档
 
-如果想在项目的 `./docs` 目录里写文档，直接通过 `init` 初始化项目。
+使用Atom打开克隆下来的DocsPlatform文件夹，左边为文档目录，中间文档编辑区域，右边为提交文档到服务器。
 
-```bash
-docsify init ./docs
-```
-
-## 开始写文档
-
-初始化成功后，可以看到 `./docs` 目录下创建的几个文件
-
-- `index.html` 入口文件
-- `README.md` 会做为主页内容渲染
-- `.nojekyll` 用于阻止 GitHub Pages 会忽略掉下划线开头的文件
-
-直接编辑 `docs/README.md` 就能更新网站内容，当然也可以[写多个页面](zh-cn/more-pages.md)。
-
-## 本地预览网站
-
-运行一个本地服务器通过 `docsify serve` 可以方便的预览效果，而且提供 LiveReload 功能，可以让实时的预览。默认访问 http://localhost:3000 。
+![Atom](images/QQ截图20190321152928.png)
