@@ -25,7 +25,7 @@
 
 - 基础业务
 
-  - [SSO单点登录](perfection.md)
+  - [SSO单点登录](SSO单点登录.md)
   - [索引中心](perfection.md)
   - [CA中心](perfection.md)
   - [支付平台](perfection.md)
