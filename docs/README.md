@@ -25,3 +25,5 @@ git clone https://github.com/Internethospital/DocsPlatform.git
 使用Atom打开克隆下来的DocsPlatform文件夹，左边为文档目录，中间文档编辑区域，右边为提交文档到服务器。
 
 ![Atom](images/QQ截图20190321152928.png)
+
+修改Atom的语言为中文： https://atom.io/packages/simplified-chinese-menu

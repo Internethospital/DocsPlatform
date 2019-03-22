@@ -1,30 +1,28 @@
-- [前言](README.md)
+- [使用Docsify协助编写技术文档](README.md)
 
-- IH_BasicPlatform开发框架
+- 开发工具
 
-  - [Quick start](perfection.md)
-  - [Writing more pages](perfection.md)
-  - [Custom navbar](perfection.md)
-  - [Cover page](perfection.md)
+  - [Leangoo敏捷看板](perfection.md)
+  - [禅道BUG管理](perfection.md)
+  - [Jenkins+SVN](perfection.md)
+  - [Docsify文档工具](perfection.md)
 
-- SSO单点登录接入
+- 开发框架
 
-  - [Configuration](perfection.md)
-  - [Themes](perfection.md)
-  - [List of Plugins](perfection.md)
-  - [Write a Plugin](perfection.md)
-  - [Markdown configuration](perfection.md)
-  - [Language highlighting](perfection.md)
+  - [起步](perfection.md)
+  - [代码架构](perfection.md)
+  - [实例讲解](perfection.md)
+  - [构建发布](perfection.md)
 
-- Guide
+- 基础平台
 
-  - [Deploy](perfection.md)
-  - [Helpers](perfection.md)
-  - [Vue compatibility](perfection.md)
-  - [CDN](perfection.md)
-  - [Offline Mode(PWA)](perfection.md)
-  - [Server-Side Rendering(SSR)](perfection.md)
-  - [Embed Files](perfection.md)
+  - [用户权限设计](perfection.md)
+  - [基于腾讯云的视频通讯组件封装](perfection.md)
+  - [消息推送设计](perfection.md)
+  - [订单支付模块](perfection.md)
+  - [微信扫码登录](perfection.md)
 
-- [Awesome docsify](perfection.md)
-- [Changelog](perfection.md)
+- SSO接入
+
+  - [用户集成](perfection.md)
+  - [权限集成](perfection.md)
