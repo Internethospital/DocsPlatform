@@ -15,13 +15,21 @@
   - [实例讲解](perfection.md)
   - [构建发布](perfection.md)
 
-- 基础平台
+- 公共组件
 
-  - [用户权限设计](perfection.md)
   - [基于腾讯云的视频通讯组件封装](perfection.md)
   - [消息推送设计](perfection.md)
   - [订单支付模块](perfection.md)
   - [微信扫码登录](perfection.md)
+  - [系统参数](perfection.md)
+
+- 基础业务
+
+  - [SSO单点登录](perfection.md)
+  - [索引中心](perfection.md)
+  - [CA中心](perfection.md)
+  - [支付平台](perfection.md)
+  - [应用平台](perfection.md)
 
 - SSO接入
 
