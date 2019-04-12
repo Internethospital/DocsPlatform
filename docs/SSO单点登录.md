@@ -13,6 +13,15 @@
    4、绑定用户
    ![Atom](images/caozuo5.png)
    ![Atom](images/caozuo6.png)
+   对接文档
+   一、登录流程
+   ![Atom](images/liucheng1.png)
+   二、注销流程
+   ![Atom](images/liucheng2.png)
+   三、接口接入
+   ![Atom](images/jiekou1.png)
+   ![Atom](images/jiekou2.png)
+   ![Atom](images/jiekou3.png)
 ## 单系统权限设计
 
 ![Atom](images/1.png)
