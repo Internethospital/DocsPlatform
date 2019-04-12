@@ -19,9 +19,34 @@
 ### 二、注销流程
 ![Atom](images/liucheng2.png)
 ### 三、接口接入
-![Atom](images/jiekou1.png)
-![Atom](images/jiekou2.png)
-![Atom](images/jiekou3.png)
+|登录接入||||
+|:---|:---|:---|:---|
+|请求地址|https://sso.efwplus.cn:8888/Authorize/Index|||
+|请求方式|重定向跳转|||
+|参数|是否必填|类型|备注|
+|jSessionID|是|String|登录凭证|
+|returnUrl|是|String|回传地址|
+|logOut|是|String|登出接口地址|
+|appKey|是|String|第三方应用惟一标识(暂时由sso中心平台分配)|
+|结果|重定向到sso认证页 Ps:中心平台有登录凭证并且跳转到returnUrl?ssotoken=xxx||||
+
+|Token验证||||
+|:---|:---|:---|:---|
+|请求地址|http://192.168.199.78:7777/sso/v1/Authorize/CheckToken|||
+|请求方式|post|||
+|参数|是否必填|类型|备注|
+|jSessionID|是|String|登录凭证|
+|Ssotoken|是|String|中心平台生成ssotoken|
+|logOut|是|String|登出接口地址|
+|appKey|是|String|第三方应用惟一标识(暂时由sso中心平台分配)|
+|返回值|{code:0,msg:””,data:[{ appUserName:xxxx}]}|||
+||Ps:code为0代表成功 其他为失败   appUserName为应用系统用户名||||
+
+|注销接入||
+|:---|:---|
+|请求地址|https://sso.efwplus.cn:8888/Logout/Index|
+|请求方式|重定向跳转|
+|结果|重定向到sso登录页|
 ## 单系统权限设计
 
 ![Atom](images/1.png)
