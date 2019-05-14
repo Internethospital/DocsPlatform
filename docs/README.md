@@ -1,6 +1,6 @@
 # 互联网产品技术开发平台介绍(Lobster)
 
-![Lobster](images/lobsterlogo.jpg)
+![Lobster](images/shuoming.png)
 
 > 1、如果开发一个新的互联网产品，就可以使用Lobster作为技术平台，快速开发Web系统、小程序、APP等。无需浪费太多时间再技术选型、技术架构搭建等上面，让团队立马进入产品业务功能开发。
 
@@ -11,5 +11,3 @@
 > 3、Lobster还收集一些公共组件，包括消息推送、视频通讯、IM聊天等。还提供一些核心业务接入，如SSO、病人主索引、支付、CA认证等。
 
 > 4、团队开发管理建议采用敏捷开发，所以Lobster还提供一些敏捷指导，包括敏捷思维、敏捷实践和敏捷工具。
-
-![Lobster](images/shuoming.png)
