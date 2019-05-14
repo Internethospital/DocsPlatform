@@ -21,7 +21,7 @@
 
 - 框架教程
 
-  - [Web开发框架](开发框架-起步.md)
+  - Web开发框架
 
     - [Web开发介绍](perfection.md)
     - [程序结构&代码结构&分层思想](perfection.md)
@@ -32,7 +32,7 @@
     - [LayUI介绍](perfection.md)
     - [关于前后端分离](perfection.md)
 
-  - [APP开发框架](perfection.md)
+  - APP开发框架
 
     - [APP开发介绍](perfection.md)
     - [HBuilderX介绍](perfection.md)
@@ -41,7 +41,7 @@
     - [MUI介绍](perfection.md)
     - [APP在线升级](perfection.md)
 
-  - [小程序开发](perfection.md)
+  - 小程序开发
 
     - [小程序开发介绍](perfection.md)
     - [微信开发者工具](perfection.md)
@@ -63,14 +63,14 @@
 
 - 敏捷开发
 
-  - [敏捷思维](perfection.md)
-  - [敏捷实践](perfection.md)
-  - [敏捷工具](perfection.md)
+  - 敏捷思维
+  - 敏捷实践
+  - 敏捷工具
 
     - [Leangoo敏捷看板](perfection.md)
     - [Jenkins+SVN](perfection.md)
     - [禅道BUG管理](perfection.md)
-    
+
 - [更新日志](perfection.md)
 - [常见问题(FAQ)](perfection.md)
 - [认识团队](perfection.md)
