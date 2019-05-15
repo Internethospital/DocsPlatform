@@ -12,4 +12,6 @@
 
 > 4、团队开发管理建议采用敏捷开发，所以Lobster还提供一些敏捷指导，包括敏捷思维、敏捷实践和敏捷工具。
 
-[查看技术文档](https://docs.efwplus.cn/)
+查看技术文档：[https://docs.efwplus.cn/](https://docs.efwplus.cn/)
+
+从Github上获取Demo：[https://github.com/Internethospital/LobsterDemo](https://github.com/Internethospital/LobsterDemo)
