@@ -29,3 +29,21 @@
 > Lobster微服务技术架构
 
 ![Lobster](images/Lobster微服务技术架构.png)
+
+Web：采用LayUI前端框架
+
+APP：采用DCloud的H5+
+
+小程序：微信小程序
+
+API网关：采用Ocelot
+
+服务注册与发现：采用Consul
+
+服务分布式监控：采用SkyWalking
+
+作业调度：采用Quartz
+
+部署：Docker
+
+Docker仓库：Harbor
