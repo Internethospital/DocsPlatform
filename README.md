@@ -15,3 +15,17 @@
 查看技术文档：[https://docs.efwplus.cn/](https://docs.efwplus.cn/)
 
 从Github上获取Demo：[https://github.com/Internethospital/LobsterDemo](https://github.com/Internethospital/LobsterDemo)
+
+## 架构图
+
+> 互联网医院架构
+
+![Lobster](images/互联网医院架构.png)
+
+> 基础平台架构
+
+![Lobster](images/基础平台架构.png)
+
+> Lobster微服务技术架构
+
+![Lobster](images/Lobster微服务技术架构.png)
