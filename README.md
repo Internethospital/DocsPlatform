@@ -16,17 +16,15 @@
 
 从Github上获取Demo：[https://github.com/Internethospital/LobsterDemo](https://github.com/Internethospital/LobsterDemo)
 
-## 架构图
-
-> 互联网医院架构
+## 互联网医院架构
 
 ![Lobster](images/互联网医院架构.png)
 
-> 基础平台架构
+## 基础平台架构
 
 ![Lobster](images/基础平台架构.png)
 
-> Lobster微服务技术架构
+## Lobster微服务技术架构
 
 ![Lobster](images/Lobster微服务技术架构.png)
 
@@ -49,7 +47,7 @@ API网关：采用Ocelot
 Docker仓库：Harbor
 
 
-> Lobster开发持续集成
+## Lobster开发持续集成
 
 开发人员将代码提交到Git，然后再Jenkins上点击构建，Jenkins就会自动完成后续的编译、发布、部署工作，你只要等构建成功后访问你的站点即可。
 
