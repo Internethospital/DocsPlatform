@@ -13,20 +13,6 @@
   - [APP开发框架](APP开发框架.md)
   - [小程序开发](小程序开发.md)
 
-- 公共组件
-
-  - [消息推送](perfection.md)
-  - [视频组件](perfection.md)
-  - [IM组件](perfection.md)
-
-- 业务接入
-
-  - [SSO单点登录接入](SSO单点登录.md)
-  - [索引中心接入](索引中心.md)
-  - [支付平台接入](perfection.md)
-  - [CA中心接入](perfection.md)
-  - [视频问诊接入](perfection.md)
-
 - 敏捷开发
 
   - [敏捷思维](敏捷思维.md)

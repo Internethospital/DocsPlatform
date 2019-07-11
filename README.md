@@ -7,10 +7,9 @@
 > 2、Lobster包括Web开发、APP开发、小程序开发、Winform客户端开发等。
 后端技术采用.netcore，支持微服务、分布式技术、Docker部署等。
 前端技术，Web采用LayUI，小程序采用微信小程序，APP采用H5+SDK。
+支持Docker部署。
 
-> 3、Lobster还收集一些公共组件，包括消息推送、视频通讯、IM聊天等。还提供一些核心业务接入，如SSO、病人主索引、支付、CA认证等。
-
-> 4、团队开发管理建议采用敏捷开发，所以Lobster还提供一些敏捷指导，包括敏捷思维、敏捷实践和敏捷工具。
+> 3、团队开发管理建议采用敏捷开发，所以Lobster还提供一些敏捷指导，包括敏捷思维、敏捷实践和敏捷工具。
 
 查看技术文档：[https://docs.efwplus.cn/](https://docs.efwplus.cn/)
 
